@@ -1,0 +1,63 @@
+{
+  "date": {
+    "gregorian": {
+      "date": "01-04-2023",
+      "day": "01",
+      "designation": "[Object]",
+      "format": "DD-MM-YYYY",
+      "month": "[Object]",
+      "weekday": "[Object]",
+      "year": "2023"
+    },
+    "hijri": {
+      "date": "10-09-1444",
+      "day": "10",
+      "designation": "[Object]",
+      "format": "DD-MM-YYYY",
+      "holidays": "[Array]",
+      "month": "[Object]",
+      "weekday": "[Object]",
+      "year": "1444"
+    },
+    "readable": "01 Apr 2023",
+    "timestamp": "1680328861"
+  },
+  "meta": {
+    "latitude": 41.005908,
+    "latitudeAdjustmentMethod": "ANGLE_BASED",
+    "longitude": 28.977731,
+    "method": {
+      "id": 2,
+      "location": "[Object]",
+      "name": "Islamic Society of North America (ISNA)",
+      "params": "[Object]"
+    },
+    "midnightMode": "STANDARD",
+    "offset": {
+      "Asr": 0,
+      "Dhuhr": 0,
+      "Fajr": 0,
+      "Imsak": 0,
+      "Isha": 0,
+      "Maghrib": 0,
+      "Midnight": 0,
+      "Sunrise": 0,
+      "Sunset": 0
+    },
+    "school": "STANDARD",
+    "timezone": "Europe/Istanbul"
+  },
+  "timings": {
+    "Asr": "16:42 (+03)",
+    "Dhuhr": "13:08 (+03)",
+    "Fajr": "05:31 (+03)",
+    "Firstthird": "23:15 (+03)",
+    "Imsak": "05:21 (+03)",
+    "Isha": "20:46 (+03)",
+    "Lastthird": "03:02 (+03)",
+    "Maghrib": "19:29 (+03)",
+    "Midnight": "01:08 (+03)",
+    "Sunrise": "06:48 (+03)",
+    "Sunset": "19:29 (+03)"
+  }
+}
